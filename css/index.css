@@ -1,0 +1,15 @@
+.padding {
+    margin: 0;
+    padding: 0;
+    }
+.menu{
+    justify-content: center;
+    align-self: center;
+}
+.main{
+        margin: 3% 5%;
+      }
+.endereco{
+        margin: 2% 5%;
+        font-size: 15px;
+      }
